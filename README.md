@@ -11,6 +11,7 @@
 <h3>
 Soy un joven que le encanta crear diseños minimalistas. Siempre estoy aprendiendo.  
 </h3>
+
 La frase que más me motiva es:  
 **"Si puedes imaginarlo, puedes programarlo"**  
 – *Alejandro Taboada*.
